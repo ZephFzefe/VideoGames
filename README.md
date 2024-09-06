@@ -1,4 +1,4 @@
-# Explorador de Jogos Retrô
+# Explorador de Jogos Retrô - Imersão DEV Alura 09/2024
 
 **Descrição:**
 
