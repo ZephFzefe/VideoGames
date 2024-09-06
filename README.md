@@ -11,3 +11,7 @@ Este projeto te permite fazer uma viagem no tempo e descobrir clássicos dos vid
 * **Pesquisa Intuitiva:** Digite o nome de um jogo, console ou qualquer palavra-chave relacionada e encontre rapidamente o que procura.
 * **Informações Detalhadas:** Para cada jogo, você encontrará informações como título, descrição e links para mais detalhes.
 * **Design Clássico:** O design da página web evoca a nostalgia dos videogames retrô, proporcionando uma experiência imersiva.
+
+**Teste:**
+
+video-games-ten.vercel.app
